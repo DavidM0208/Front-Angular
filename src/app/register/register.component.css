@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background: linear-gradient(to left, #004864, #FFFFFF);
+}
+.title-register{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+}
+.box-register{
+    width: 500px;
+}
+.form-register{
+    text-align: center;
+}
+.button-register{
+    width: 150px;
+    margin: 10px;
+}

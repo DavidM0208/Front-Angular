@@ -1,0 +1,32 @@
+.title-register{
+    font-size: 50px;
+    margin-top: 25%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title-login{
+    margin-top: 180px;
+    margin-left: 60px;
+}
+hr{
+    width: 350px;
+    margin-left: 55px;
+}
+.form-login{
+    margin-left: 50px;
+}
+.register{
+    background: linear-gradient(to left, #004864, #FFFFFF);
+}
+.text-register{
+    margin-top: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    margin-top: 50px
+}
+.button-login{
+    margin-left: 40%;
+}
+.button-register{
+    margin: 20px;
+}
